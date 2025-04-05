@@ -1,0 +1,7 @@
+/Users/navinkumar/Public/projects/dotnet/MyWebAPI/obj/Debug/net8.0/MyWebAPI.csproj.AssemblyReference.cache
+/Users/navinkumar/Public/projects/dotnet/MyWebAPI/obj/Debug/net8.0/MyWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navinkumar/Public/projects/dotnet/MyWebAPI/obj/Debug/net8.0/MyWebAPI.AssemblyInfoInputs.cache
+/Users/navinkumar/Public/projects/dotnet/MyWebAPI/obj/Debug/net8.0/MyWebAPI.AssemblyInfo.cs
+/Users/navinkumar/Public/projects/dotnet/MyWebAPI/obj/Debug/net8.0/MyWebAPI.csproj.CoreCompileInputs.cache
+/Users/navinkumar/Public/projects/dotnet/MyWebAPI/obj/Debug/net8.0/MyWebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/navinkumar/Public/projects/dotnet/MyWebAPI/obj/Debug/net8.0/MyWebAPI.MvcApplicationPartsAssemblyInfo.cache

@@ -1,12 +1,16 @@
-using ems.Models;
 using Microsoft.EntityFrameworkCore;
+using MyWebAPI.Models;
 
-namespace ems.Data
+namespace MyWebAPI.Data
 {
     public class AppDbContext : DbContext
     {
-        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
+        public AppDbContext(DbContextOptions<AppDbContext> options)
+            : base(options)
+        {
+        }
 
         public DbSet<Product> Products { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }

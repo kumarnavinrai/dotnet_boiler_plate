@@ -1,0 +1,5 @@
+/Users/navinkumar/Public/projects/dotnet/MyWebAPI/tests/MyWebApi.Tests/obj/Debug/net8.0/MyWebApi.Tests.csproj.AssemblyReference.cache
+/Users/navinkumar/Public/projects/dotnet/MyWebAPI/tests/MyWebApi.Tests/obj/Debug/net8.0/MyWebApi.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navinkumar/Public/projects/dotnet/MyWebAPI/tests/MyWebApi.Tests/obj/Debug/net8.0/MyWebApi.Tests.AssemblyInfoInputs.cache
+/Users/navinkumar/Public/projects/dotnet/MyWebAPI/tests/MyWebApi.Tests/obj/Debug/net8.0/MyWebApi.Tests.AssemblyInfo.cs
+/Users/navinkumar/Public/projects/dotnet/MyWebAPI/tests/MyWebApi.Tests/obj/Debug/net8.0/MyWebApi.Tests.csproj.CoreCompileInputs.cache
